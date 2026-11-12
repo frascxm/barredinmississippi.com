@@ -1,0 +1,1 @@
+import{t as e}from"./chrome-CKt9qE5e.js";e();var t=document.querySelector(`.hero-video`);t&&matchMedia(`(max-width:760px)`).matches&&(t.poster=`/video/hero-conversation-mobile-poster.webp`),t&&matchMedia(`(prefers-reduced-motion: reduce)`).matches&&(t.removeAttribute(`autoplay`),t.pause());
